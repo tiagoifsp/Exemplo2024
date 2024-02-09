@@ -7,6 +7,7 @@
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
 
+            //soma
             int c = a + b;
 
             Console.WriteLine(c);
